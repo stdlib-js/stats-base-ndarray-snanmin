@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-16)
+
+<section class="features">
+
+### Features
+
+-   [`3e486a8`](https://github.com/stdlib-js/stdlib/commit/3e486a8112a7f96fa218244cd94004c7ab678716) - add C implementation for `stats/base/ndarray/snanmin` [(#14305)](https://github.com/stdlib-js/stdlib/pull/14305)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`3e486a8`](https://github.com/stdlib-js/stdlib/commit/3e486a8112a7f96fa218244cd94004c7ab678716) - **feat:** add C implementation for `stats/base/ndarray/snanmin` [(#14305)](https://github.com/stdlib-js/stdlib/pull/14305) _(by Atharva Patange, Athan Reines)_
 -   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`1e89f0c`](https://github.com/stdlib-js/stdlib/commit/1e89f0c654aad32d0a040444b42edf49bde0b079) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
@@ -26,9 +37,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Atharva Patange
 -   Karan Anand
 -   Philipp Burckhardt
 
